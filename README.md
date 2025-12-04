@@ -9,4 +9,4 @@ Innocent Niyobuhungiro
 ## Site web
 
 Le site est hébergé avec GitHub Pages :  
-(Le lien sera ajouté ici une fois GitHub Pages activé.)
+https://vivanboy.github.io/labo-outillage-github/
